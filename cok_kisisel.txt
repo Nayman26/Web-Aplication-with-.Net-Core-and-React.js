@@ -1,0 +1,11 @@
+PersonID
+Phone Number
+Passport Number
+Password
+IP Adress
+Home Adress
+Job Adress
+Fingerprint
+Credit Card Number
+Driving Licence
+Licence Plate

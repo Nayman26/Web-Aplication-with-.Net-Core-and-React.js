@@ -1,0 +1,19 @@
+Name
+Gender
+Sex
+Age
+Marital Status
+Military Status
+Job
+Bank info
+Religion
+Email
+Web cookies
+Birthplace
+Birthday
+Blood Group
+Country
+City
+Father Name
+Mother Name
+Mother's Maiden Name
